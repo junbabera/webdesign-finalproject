@@ -1,0 +1,20 @@
+Title:
+  "ChrysCapital-backed Infogain acquires AI firm Absolutdata"
+
+By Priyanka Sangani, ET BureauLast Updated: Dec 24, 2020, 05:18 PM IST
+
+PUNE: Software engineering services Infogain today said it has acquired Absolutdata, a San Francisco based artificial intelligence and advanced analytics company. This is the third acquisition by Infogain in the last 14 months. The financial terms of the deal were not disclosed.
+
+“Infogain’s acquisition of Absolutdata completes our three-pronged
+acquisitions strategy to help customers' increasing demand for adopting digital platforms by employing strategy and experience, cloud transformation, and advanced analytics and AI services,” said Infogain’s CEO Sunil Bhatia. About 400 Absolutdata employees in the US and India will move to Infogain following the acquisition.
+
+The acquisition gives the company access to Absolutdata’s NAVIK AI platform and access to new verticals, said Ayan Mukerji, COO, Infogain. “NAVIK AI represents our first commercially available SaaS platform and is part of our broader strategy of helping our clients leverage digital platforms combined with our transformational service offerings. We aim to double our analytics customer base over the next two years and are confident that this acquisition will help us significantly toward achieving  that goal.”
+
+This will help strengthen Infogain’s presence in verticals like consumer goods, telecom and pharma.
+
+“Companies across the globe are increasingly looking towards a combination of Technology and AI/Analytics to drive scalable, sustained & profitable business growth. The COVID -19 pandemic has further accelerated digital transformation across organizations.," AbsolutData’s CEO Anil Kaul.
+
+This follows Infogain’s acquisitions of Houston-based Silicus Technologies and Seattle-based Revel Consulting. Data, analytics and artificial intelligence are strategic focus areas for Infogain and will account for 15% of its revenue post-acquisition, said the company. About 75-80% of the company’s business currently come from North America. It has identified three key areas of focus, Cloud, design experience and data analytics and AI.
+
+Read more at:
+https://economictimes.indiatimes.com/tech/information-tech/chryscapital-backed-infogain-acquires-ai-firm-absolutdata/articleshow/79934421.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst

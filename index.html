@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <title>Home Page</title>
+        <link rel="stylesheet" href="style.css">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<nav class="header">
+  <div class="headtitle">
+    <a href="index.html"><img class="headerlogo" src="images/header logo.png"/></a>
+      <p class="time"> Philippine Standard Time -  <span id="datetime"></span></p>
+        <script>
+          var dt = new Date();
+            document.getElementById("datetime").innerHTML = dt.toLocaleString();
+        </script>
+  </div>
+  <div class="wholetab">
+      <li class="tabs"><a href='index.html'>Home</a></li>
+      <li class="tabs"><a href='navigations/markets.html'>Markets</a></li>
+      <li class="tabs"><a href='navigations/news.html'>News</a></li>
+      <li class="tabs"><a href='navigations/industry.html'>Industry</a></li>
+      <li class="tabs"><a href='navigations/tech.html'>Tech</a></li>
+      <li class="tabs"><a href='navigations/jobs.html'>Jobs</a></li>
+      <li class="tabs"><a href='navigations/opinion.html'>Opinion</a></li>
+      <li class="tabs"><a href='navigations/politics.html'>Politics</a></li>
+      <li class="tabs"><a href='navigations/about.html'>About</a></li>
+      <li class="tabs"><a href='navigations/contactus.html'>Contact Us</a></li>
+  </div>
+</nav>
+
+
+
+
+
+<body>
+<div class="letter">
+  <p id="hometitle"><br>E<br>T<br> <br>N<br>O<br>W<br></p>
+  <p id="slogan">"Action begins here. Always with the news"</p>
+  <video id="videobg" autoplay muted loop>
+    <source src="videos/contact.mp4" type="video/mp4">
+  </video>
+</div>
+
+</body>
+
+
+
+
+
+<footer class="footer-main-div">
+  <h3>EconomicTimes.Com</h3>
+    <div class="footer-social-icon">
+      <a class="btn" href="https://www.facebook.com/EconomicTimes/" target="blank">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+      <a class="btn" href="https://www.instagram.com/the_economic_times/" target="blank">
+        <i class="fab fa-instagram"></i>
+      </a>
+      <a class="btn" href="https://twitter.com/EconomicTimes" target="blank">
+        <i class="fab fa-twitter"></i>
+      </a>
+      <a class="btn" href="https://www.youtube.com/channel/UCJFOER35ggIWwsXh2ZDnqyg" target="blank">
+        <i class="fab fa-youtube"></i>
+      </a>
+    </div>  
+<div class="footer-menu-one">
+  <ul>
+    <li><a href="index.html">Home  |</a></li>
+    <li><a href="navigations/markets.html">Markets  |</a></li>
+    <li><a href="navigations/news.html">News |</a></li>
+    <li><a href="navigations/industry.html">Industry  |</a></li>
+    <li><a href="navigations/tech.html">Tech  |</a></li>
+    <li><a href="navigations/jobs.html">Jobs |</a></li>
+    <li><a href="navigations/opinion.html">Opinion  |</a></li>
+    <li><a href="navigations/politics.html">Politics  |</a></li>
+    <li><a href="navigations/about.html">About |</a></li>
+    <li><a href="navigations/contactus.html">Contact Us |</a></li>
+  </ul>
+</div>
+  <h5> <em>©2020 All rights reserved by The Economics Times</em></h5> 
+</footer>
+
+<script src="https://kit.fontawesome.com/9b4f90ede9.js" crossorigin="anonymous"></script>
+</html>
